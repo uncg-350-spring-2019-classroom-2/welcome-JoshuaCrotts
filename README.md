@@ -1,4 +1,2 @@
 Hello Dr. Day!
-
-![Image of Yaktocat]
-(octocat.png)
+![Image of Yaktocat](octocat.png)
